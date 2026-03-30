@@ -4,3 +4,6 @@ build
 # West files
 .west
 deps
+
+# macOS Finder metadata
+.DS_Store
