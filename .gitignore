@@ -7,8 +7,3 @@ deps
 
 # macOS Finder metadata
 .DS_Store
-
-app/.clangd
-app/.vscode/
-app/src/*.code-workspace
-
