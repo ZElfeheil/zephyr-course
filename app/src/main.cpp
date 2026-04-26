@@ -3,7 +3,7 @@
 #include <zephyr/logging/log.h>
 
 /* The devicetree node identifier for the "led0" alias. */
-#define LED_NODE DT_ALIAS(app_led)
+#define LED_NODE DT_ALIAS(led0)
 //#define LED_NODE DT_NODELABEL(blue_led)
 
 
