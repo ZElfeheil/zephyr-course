@@ -1,0 +1,14 @@
+/*
+ * Copyright 2024 NXP
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
+/dts-v1/;
+
+#include "my_board_mcxn947_mcxn947_cpu0.dtsi"
+
+/ {
+	model = "My Board";
+	compatible = "nxp,mcxn947", "nxp,mcx";
+};
