@@ -1,0 +1,7 @@
+/dts-v1/;
+#include <nxp/nxp_mcxn94x.dtsi>
+
+/ {
+    model = "Our Board";
+	compatible = "my_vendor,our_board";
+};

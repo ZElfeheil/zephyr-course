@@ -1,0 +1,9 @@
+board:
+  name: our_board
+  full_name: Our Board From Scratch
+  vendor: my_vendor
+  socs:
+  - name: mcxn947
+    variants:
+    - name: qspi
+      cpucluster: 'cpu0'
